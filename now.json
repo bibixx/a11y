@@ -1,11 +1,11 @@
 {
-  "alias": "your_domain.example.com",
+  "version": 2,
   "routes": [
     {
       "src": ".*",
       "status": 308,
       "headers": {
-        "Location": "https://example.com"
+        "Location": "https://www.notion.so/bibixx/Accessiblity-232ec8f8f4a64c26befa38906aeab356"
       }
     }
   ]
