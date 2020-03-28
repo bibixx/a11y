@@ -1,0 +1,12 @@
+{
+  "alias": "your_domain.example.com",
+  "routes": [
+    {
+      "src": ".*",
+      "status": 308,
+      "headers": {
+        "Location": "https://example.com"
+      }
+    }
+  ]
+}
